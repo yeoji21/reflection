@@ -1,7 +1,6 @@
-package exercises;
+package exercises.ch1;
 
 import java.util.Collection;
-import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
 
